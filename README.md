@@ -1,14 +1,14 @@
-#Vue.js
+# Vue.js
 <a href="https://www.youtube.com/watch?v=Wy9q22isx3U" target="_blank">Traversy Media Tutorial</a>
 
-##Intro
+## Intro
 Vue.js makes creates UI's and front-end apps much easier.
 It has a smaller learning curve than React and Angular.
 It is extremely fast and lightweight
 Single Page Application like React
 Vue comes with its own router
 
-##Getting started
+## Getting started
 <a href="https://cli.vuejs.org" target="_blank">Vue CLI Documentation</a>
 Let's start by installing the Vue-CLI (you'll need Nodejs)
 
@@ -70,7 +70,7 @@ body {
 
 Notice that we've stored a msg in the data function. This is most basic way we handle state in Vue.js.
 
-###State
+### State
 Now let's actually start storing some data in the App component.
 Notice the v-bind directive which passes in the data to the child component.
 
